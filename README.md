@@ -38,7 +38,7 @@ Raw student marks (hardcoded data)
 
 4. Subject-wise Performance Analysis
 - Calculated highest marks in each subject
-- Identified student name(s) who scored the highest
+- Identified student names who scored the highest
 - Handled cases where multiple students have the same highest marks
 
 5. Statistical Operations Used
